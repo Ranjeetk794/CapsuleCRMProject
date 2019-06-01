@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
+  <test name="Default test(failed)">
+    <classes>
+      <class name="com.capsulecrm.testcase.CapsuleCRMAddPersonTest">
+        <methods>
+          <include name="configBM"/>
+          <include name="configAM"/>
+          <include name="configBS"/>
+          <include name="configBC"/>
+          <include name="configBT"/>
+          <include name="configAC"/>
+          <include name="configAS"/>
+          <include name="verifyAccountSetting_TC_003"/>
+          <include name="configAT"/>
+        </methods>
+      </class> <!-- com.capsulecrm.testcase.CapsuleCRMAddPersonTest -->
+    </classes>
+  </test> <!-- Default test(failed) -->
+</suite> <!-- Failed suite [Default suite] -->

@@ -1,0 +1,203 @@
+2019-06-01 11:37:00 INFO  CapsulCRM:29 - -------- started verifyAddPerson_TC_001 --------
+ 2019-06-01 11:37:00 INFO  CapsulCRM:30 - navigate to add person
+ 2019-06-01 11:37:00 INFO  CapsulCRM:32 - navigate to add person
+ 2019-06-01 11:37:00 INFO  CapsulCRM:34 - navigate to case page
+ 2019-06-01 11:37:00 INFO  CapsulCRM:36 - click person icon and add a person
+ 2019-06-01 11:37:00 INFO  CapsulCRM:38 - click add person
+ 2019-06-01 11:37:03 INFO  CapsulCRM:40 - fill the form
+ 2019-06-01 11:37:03 INFO  CapsulCRM:42 - read data from Excell
+ 2019-06-01 11:37:08 INFO  CapsulCRM:48 - generate the random phone number
+ 2019-06-01 11:37:08 INFO  CapsulCRM:50 - 1398260710
+ 2019-06-01 11:37:08 INFO  CapsulCRM:52 - Work
+ 2019-06-01 11:37:08 INFO  CapsulCRM:54 - generate the random email id
+ 2019-06-01 11:37:08 INFO  CapsulCRM:56 - emailId
+ 2019-06-01 11:37:08 INFO  CapsulCRM:58 - select work
+ 2019-06-01 11:37:08 INFO  CapsulCRM:60 - read the data from Excells
+ 2019-06-01 11:37:08 INFO  CapsulCRM:62 - select twitter
+ 2019-06-01 11:37:08 INFO  CapsulCRM:64 - Home
+ 2019-06-01 11:37:09 INFO  CapsulCRM:66 - clk save Button
+ 2019-06-01 11:37:12 INFO  CapsulCRM:68 - click case button
+ 2019-06-01 11:37:12 INFO  CapsulCRM:70 - clk add case button
+ 2019-06-01 11:37:15 INFO  CapsulCRM:72 - read the data from Excel
+ 2019-06-01 11:37:15 INFO  CapsulCRM:74 - get the data form common data 
+ 2019-06-01 11:37:16 INFO  CapsulCRM:76 - read the data from Excel
+ 2019-06-01 11:37:16 INFO  CapsulCRM:78 - click save button
+ 2019-06-01 11:37:18 INFO  CapsulCRM:80 - verify the case status code result
+ 2019-06-01 11:37:20 INFO  CapsulCRM:83 - actResult
+ 2019-06-01 11:37:28 INFO  CapsulCRM:90 - -------------- statrted verifyAccountSetting_TC_002 case -----------------
+ 2019-06-01 11:37:28 INFO  CapsulCRM:91 - navigate to home page
+ 2019-06-01 11:37:28 INFO  CapsulCRM:93 -  navigate to new user 
+ 2019-06-01 11:37:28 INFO  CapsulCRM:95 -  navigate to track page 
+ 2019-06-01 11:37:28 INFO  CapsulCRM:97 - navigate to Account setting 
+ 2019-06-01 11:37:28 INFO  CapsulCRM:99 - navigate to AppearancePage 
+ 2019-06-01 11:37:28 INFO  CapsulCRM:101 - navigate to Oppertunites page 
+ 2019-06-01 11:37:28 INFO  CapsulCRM:103 -  click account profile at left top corrner 
+ 2019-06-01 11:37:28 INFO  CapsulCRM:105 -  click on account setting page 
+ 2019-06-01 11:37:29 INFO  CapsulCRM:107 -  verify account setting page header 
+ 2019-06-01 11:37:30 INFO  CapsulCRM:110 - actHeader
+ 2019-06-01 11:37:30 INFO  CapsulCRM:112 - clk on account link
+ 2019-06-01 11:37:31 INFO  CapsulCRM:114 -  verify  account header 
+ 2019-06-01 11:37:31 INFO  CapsulCRM:117 - Account
+ 2019-06-01 11:37:31 INFO  CapsulCRM:118 - clk invoice link
+ 2019-06-01 11:37:35 INFO  CapsulCRM:120 - verify invoice header
+ 2019-06-01 11:37:35 INFO  CapsulCRM:123 - clk export link
+ 2019-06-01 11:37:36 INFO  CapsulCRM:125 - verify the export header
+ 2019-06-01 11:37:36 INFO  CapsulCRM:128 - clk appearance link
+ 2019-06-01 11:37:37 INFO  CapsulCRM:130 - verify appearance heade
+ 2019-06-01 11:37:37 INFO  CapsulCRM:133 - Appearance
+ 2019-06-01 11:37:37 INFO  CapsulCRM:135 - clk mail link
+ 2019-06-01 11:37:38 INFO  CapsulCRM:137 - verify the mailbox
+ 2019-06-01 11:37:38 INFO  CapsulCRM:140 - clk users link
+ 2019-06-01 11:37:42 INFO  CapsulCRM:142 - verify the usersheader
+ 2019-06-01 11:37:42 INFO  CapsulCRM:145 - Users
+ 2019-06-01 11:37:44 INFO  CapsulCRM:147 - click add new user button
+ 2019-06-01 11:37:44 INFO  CapsulCRM:148 - read data from excel sheet
+ 2019-06-01 11:37:44 INFO  CapsulCRM:150 - read data from excel sheet
+ 2019-06-01 11:37:44 INFO  CapsulCRM:152 - it will generate random Email id
+ 2019-06-01 11:37:44 INFO  CapsulCRM:154 - emailId
+ 2019-06-01 11:37:44 INFO  CapsulCRM:156 - read data from excel file
+ 2019-06-01 11:37:44 INFO  CapsulCRM:158 - invite user 
+ 2019-06-01 11:37:46 INFO  CapsulCRM:160 - click the oppotunites link
+ 2019-06-01 11:37:49 INFO  CapsulCRM:162 - verify the oppertunites header
+ 2019-06-01 11:37:51 INFO  CapsulCRM:165 - Opportunities
+ 2019-06-01 11:37:51 INFO  CapsulCRM:167 - click add new user 
+ 2019-06-01 11:37:51 INFO  CapsulCRM:169 - gLIzqXIJ
+ 2019-06-01 11:37:52 INFO  CapsulCRM:171 - read the data from property file
+ 2019-06-01 11:37:52 INFO  CapsulCRM:173 - read the data from property file
+ 2019-06-01 11:37:52 INFO  CapsulCRM:175 - read the data from property file
+ 2019-06-01 11:37:52 INFO  CapsulCRM:177 - clk save button 
+ 2019-06-01 11:37:52 INFO  CapsulCRM:179 - verify the track header file
+ 2019-06-01 11:37:54 INFO  CapsulCRM:181 - verify the track header page
+ 2019-06-01 11:37:54 INFO  CapsulCRM:185 - actTrachHeader
+ 2019-06-01 11:37:55 INFO  CapsulCRM:187 - read the data from excel file
+ 2019-06-01 11:37:55 INFO  CapsulCRM:189 - read the data from excel file
+ 2019-06-01 11:37:55 INFO  CapsulCRM:191 - read the data from property file
+ 2019-06-01 11:37:55 INFO  CapsulCRM:193 - click select category
+ 2019-06-01 11:37:57 INFO  CapsulCRM:195 - read data from properties
+ 2019-06-01 11:37:57 INFO  CapsulCRM:197 - select weekdays
+ 2019-06-01 11:37:57 INFO  CapsulCRM:199 - select assign
+ 2019-06-01 11:37:57 INFO  CapsulCRM:201 - click save button
+ 2019-06-01 11:38:06 INFO  CapsulCRM:206 - -----------Started verifyAccountSetting_TC_003 case----------- 
+ 2019-06-01 11:38:06 INFO  CapsulCRM:207 -    navigate to Account setting  page   
+ 2019-06-01 11:38:06 INFO  CapsulCRM:209 -  navigate to Home Page 
+ 2019-06-01 11:38:06 INFO  CapsulCRM:211 -  navigate to trash factory 
+ 2019-06-01 11:38:06 INFO  CapsulCRM:213 - navigate to integration page 
+ 2019-06-01 11:38:06 INFO  CapsulCRM:215 -  navigate to Tags Page 
+ 2019-06-01 11:38:06 INFO  CapsulCRM:217 - click account profile
+ 2019-06-01 11:38:07 INFO  CapsulCRM:219 - click account setting page 
+ 2019-06-01 11:38:08 INFO  CapsulCRM:221 - click task category 
+ 2019-06-01 11:38:10 INFO  CapsulCRM:223 - click add new Category
+ 2019-06-01 11:38:12 INFO  CapsulCRM:225 - print random name
+ 2019-06-01 11:38:13 INFO  CapsulCRM:228 - click save button
+ 2019-06-01 11:38:15 INFO  CapsulCRM:231 - Enter the Tags page
+ 2019-06-01 11:38:15 INFO  CapsulCRM:232 - verify the Tags header
+ 2019-06-01 11:38:15 INFO  CapsulCRM:235 - Tags and DataTags
+ 2019-06-01 11:38:15 INFO  CapsulCRM:237 - click add new tag
+ 2019-06-01 11:38:15 INFO  CapsulCRM:239 - print random persion name
+ 2019-06-01 11:38:16 INFO  CapsulCRM:242 - click save button
+ 2019-06-01 11:38:17 INFO  CapsulCRM:244 - Entered integration page
+ 2019-06-01 11:40:21 INFO  CapsulCRM:29 - -------- started verifyAddPerson_TC_001 --------
+ 2019-06-01 11:40:21 INFO  CapsulCRM:30 - navigate to add person
+ 2019-06-01 11:40:21 INFO  CapsulCRM:32 - navigate to add person
+ 2019-06-01 11:40:21 INFO  CapsulCRM:34 - navigate to case page
+ 2019-06-01 11:40:21 INFO  CapsulCRM:36 - click person icon and add a person
+ 2019-06-01 11:40:21 INFO  CapsulCRM:38 - click add person
+ 2019-06-01 11:40:24 INFO  CapsulCRM:40 - fill the form
+ 2019-06-01 11:40:24 INFO  CapsulCRM:42 - read data from Excell
+ 2019-06-01 11:40:26 INFO  CapsulCRM:48 - generate the random phone number
+ 2019-06-01 11:40:26 INFO  CapsulCRM:50 - 3455080265
+ 2019-06-01 11:40:26 INFO  CapsulCRM:52 - Work
+ 2019-06-01 11:40:26 INFO  CapsulCRM:54 - generate the random email id
+ 2019-06-01 11:40:26 INFO  CapsulCRM:56 - emailId
+ 2019-06-01 11:40:26 INFO  CapsulCRM:58 - select work
+ 2019-06-01 11:40:26 INFO  CapsulCRM:60 - read the data from Excells
+ 2019-06-01 11:40:26 INFO  CapsulCRM:62 - select twitter
+ 2019-06-01 11:40:26 INFO  CapsulCRM:64 - Home
+ 2019-06-01 11:40:27 INFO  CapsulCRM:66 - clk save Button
+ 2019-06-01 11:40:30 INFO  CapsulCRM:68 - click case button
+ 2019-06-01 11:40:30 INFO  CapsulCRM:70 - clk add case button
+ 2019-06-01 11:40:31 INFO  CapsulCRM:72 - read the data from Excel
+ 2019-06-01 11:40:32 INFO  CapsulCRM:74 - get the data form common data 
+ 2019-06-01 11:40:32 INFO  CapsulCRM:76 - read the data from Excel
+ 2019-06-01 11:40:32 INFO  CapsulCRM:78 - click save button
+ 2019-06-01 11:40:35 INFO  CapsulCRM:80 - verify the case status code result
+ 2019-06-01 11:40:37 INFO  CapsulCRM:83 - actResult
+ 2019-06-01 11:40:45 INFO  CapsulCRM:90 - -------------- statrted verifyAccountSetting_TC_002 case -----------------
+ 2019-06-01 11:40:45 INFO  CapsulCRM:91 - navigate to home page
+ 2019-06-01 11:40:45 INFO  CapsulCRM:93 -  navigate to new user 
+ 2019-06-01 11:40:45 INFO  CapsulCRM:95 -  navigate to track page 
+ 2019-06-01 11:40:45 INFO  CapsulCRM:97 - navigate to Account setting 
+ 2019-06-01 11:40:45 INFO  CapsulCRM:99 - navigate to AppearancePage 
+ 2019-06-01 11:40:45 INFO  CapsulCRM:101 - navigate to Oppertunites page 
+ 2019-06-01 11:40:45 INFO  CapsulCRM:103 -  click account profile at left top corrner 
+ 2019-06-01 11:40:45 INFO  CapsulCRM:105 -  click on account setting page 
+ 2019-06-01 11:40:48 INFO  CapsulCRM:107 -  verify account setting page header 
+ 2019-06-01 11:40:48 INFO  CapsulCRM:110 - actHeader
+ 2019-06-01 11:40:48 INFO  CapsulCRM:112 - clk on account link
+ 2019-06-01 11:40:49 INFO  CapsulCRM:114 -  verify  account header 
+ 2019-06-01 11:40:49 INFO  CapsulCRM:117 - Account
+ 2019-06-01 11:40:49 INFO  CapsulCRM:118 - clk invoice link
+ 2019-06-01 11:40:54 INFO  CapsulCRM:120 - verify invoice header
+ 2019-06-01 11:40:54 INFO  CapsulCRM:123 - clk export link
+ 2019-06-01 11:40:55 INFO  CapsulCRM:125 - verify the export header
+ 2019-06-01 11:40:55 INFO  CapsulCRM:128 - clk appearance link
+ 2019-06-01 11:40:55 INFO  CapsulCRM:130 - verify appearance heade
+ 2019-06-01 11:40:55 INFO  CapsulCRM:133 - Appearance
+ 2019-06-01 11:40:56 INFO  CapsulCRM:135 - clk mail link
+ 2019-06-01 11:40:57 INFO  CapsulCRM:137 - verify the mailbox
+ 2019-06-01 11:40:57 INFO  CapsulCRM:140 - clk users link
+ 2019-06-01 11:40:59 INFO  CapsulCRM:142 - verify the usersheader
+ 2019-06-01 11:40:59 INFO  CapsulCRM:145 - Users
+ 2019-06-01 11:41:00 INFO  CapsulCRM:147 - click add new user button
+ 2019-06-01 11:41:00 INFO  CapsulCRM:148 - read data from excel sheet
+ 2019-06-01 11:41:01 INFO  CapsulCRM:150 - read data from excel sheet
+ 2019-06-01 11:41:01 INFO  CapsulCRM:152 - it will generate random Email id
+ 2019-06-01 11:41:01 INFO  CapsulCRM:154 - emailId
+ 2019-06-01 11:41:01 INFO  CapsulCRM:156 - read data from excel file
+ 2019-06-01 11:41:01 INFO  CapsulCRM:158 - invite user 
+ 2019-06-01 11:41:02 INFO  CapsulCRM:160 - click the oppotunites link
+ 2019-06-01 11:41:05 INFO  CapsulCRM:162 - verify the oppertunites header
+ 2019-06-01 11:41:07 INFO  CapsulCRM:165 - Opportunities
+ 2019-06-01 11:41:08 INFO  CapsulCRM:167 - click add new user 
+ 2019-06-01 11:41:08 INFO  CapsulCRM:169 - fLeLCZnZ
+ 2019-06-01 11:41:08 INFO  CapsulCRM:171 - read the data from property file
+ 2019-06-01 11:41:08 INFO  CapsulCRM:173 - read the data from property file
+ 2019-06-01 11:41:08 INFO  CapsulCRM:175 - read the data from property file
+ 2019-06-01 11:41:08 INFO  CapsulCRM:177 - clk save button 
+ 2019-06-01 11:41:09 INFO  CapsulCRM:179 - verify the track header file
+ 2019-06-01 11:41:11 INFO  CapsulCRM:181 - verify the track header page
+ 2019-06-01 11:41:11 INFO  CapsulCRM:185 - actTrachHeader
+ 2019-06-01 11:41:12 INFO  CapsulCRM:187 - read the data from excel file
+ 2019-06-01 11:41:12 INFO  CapsulCRM:189 - read the data from excel file
+ 2019-06-01 11:41:12 INFO  CapsulCRM:191 - read the data from property file
+ 2019-06-01 11:41:12 INFO  CapsulCRM:193 - click select category
+ 2019-06-01 11:41:12 INFO  CapsulCRM:195 - read data from properties
+ 2019-06-01 11:41:12 INFO  CapsulCRM:197 - select weekdays
+ 2019-06-01 11:41:13 INFO  CapsulCRM:199 - select assign
+ 2019-06-01 11:41:13 INFO  CapsulCRM:201 - click save button
+ 2019-06-01 11:41:23 INFO  CapsulCRM:206 - -----------Started verifyAccountSetting_TC_003 case----------- 
+ 2019-06-01 11:41:23 INFO  CapsulCRM:207 -    navigate to Account setting  page   
+ 2019-06-01 11:41:23 INFO  CapsulCRM:209 -  navigate to Home Page 
+ 2019-06-01 11:41:23 INFO  CapsulCRM:211 -  navigate to trash factory 
+ 2019-06-01 11:41:23 INFO  CapsulCRM:213 - navigate to integration page 
+ 2019-06-01 11:41:23 INFO  CapsulCRM:215 -  navigate to Tags Page 
+ 2019-06-01 11:41:23 INFO  CapsulCRM:217 - click account profile
+ 2019-06-01 11:41:23 INFO  CapsulCRM:219 - click account setting page 
+ 2019-06-01 11:41:24 INFO  CapsulCRM:221 - click task category 
+ 2019-06-01 11:41:26 INFO  CapsulCRM:223 - click add new Category
+ 2019-06-01 11:41:26 INFO  CapsulCRM:225 - print random name
+ 2019-06-01 11:41:27 INFO  CapsulCRM:228 - click save button
+ 2019-06-01 11:41:30 INFO  CapsulCRM:231 - Enter the Tags page
+ 2019-06-01 11:41:30 INFO  CapsulCRM:232 - verify the Tags header
+ 2019-06-01 11:41:30 INFO  CapsulCRM:235 - Tags and DataTags
+ 2019-06-01 11:41:30 INFO  CapsulCRM:237 - click add new tag
+ 2019-06-01 11:41:30 INFO  CapsulCRM:239 - print random persion name
+ 2019-06-01 11:41:31 INFO  CapsulCRM:242 - click save button
+ 2019-06-01 11:41:31 INFO  CapsulCRM:244 - Entered integration page
+ 2019-06-01 11:41:32 INFO  CapsulCRM:246 - verify integration header
+ 2019-06-01 11:41:32 INFO  CapsulCRM:249 - Integrations
+ 2019-06-01 11:41:32 INFO  CapsulCRM:252 - total configuration size: 10
+ 2019-06-01 11:41:32 INFO  CapsulCRM:254 - Enterd th Trash page
+ 2019-06-01 11:41:34 INFO  CapsulCRM:256 - verify the Trash header
+ 2019-06-01 11:41:34 INFO  CapsulCRM:259 - Trash
+ 

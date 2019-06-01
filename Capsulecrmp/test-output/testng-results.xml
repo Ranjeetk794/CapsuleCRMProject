@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="3" passed="3">
+  <reporter-output>
+    <line>
+      <![CDATA[confugere browser]]>
+    </line>
+    <line>
+      <![CDATA[Navigate to Url]]>
+    </line>
+    <line>
+      <![CDATA[Login to app]]>
+    </line>
+    <line>
+      <![CDATA[status case is: Open]]>
+    </line>
+    <line>
+      <![CDATA[Logout]]>
+    </line>
+    <line>
+      <![CDATA[Login to app]]>
+    </line>
+    <line>
+      <![CDATA[Logout]]>
+    </line>
+    <line>
+      <![CDATA[Login to app]]>
+    </line>
+    <line>
+      <![CDATA[total configuration size: 10]]>
+    </line>
+    <line>
+      <![CDATA[Logout]]>
+    </line>
+    <line>
+      <![CDATA[close the browser]]>
+    </line>
+    <line>
+      <![CDATA[close the browser]]>
+    </line>
+    <line>
+      <![CDATA[close the data base Connection]]>
+    </line>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="100053" started-at="2019-06-01T06:10:01Z" finished-at="2019-06-01T06:11:41Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="100053" started-at="2019-06-01T06:10:01Z" finished-at="2019-06-01T06:11:41Z">
+      <class name="com.capsulecrm.testcase.CapsuleCRMAddPersonTest">
+        <test-method status="PASS" signature="configBS()[pri:0, instance:com.capsulecrm.testcase.CapsuleCRMAddPersonTest@1134affc]" name="configBS" is-config="true" duration-ms="154" started-at="2019-06-01T11:40:00Z" finished-at="2019-06-01T11:40:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configBS -->
+        <test-method status="PASS" signature="configBT()[pri:0, instance:com.capsulecrm.testcase.CapsuleCRMAddPersonTest@1134affc]" name="configBT" is-config="true" duration-ms="10038" started-at="2019-06-01T11:40:01Z" finished-at="2019-06-01T11:40:11Z">
+          <reporter-output>
+            <line>
+              <![CDATA[confugere browser]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- configBT -->
+        <test-method status="PASS" signature="configBC()[pri:0, instance:com.capsulecrm.testcase.CapsuleCRMAddPersonTest@1134affc]" name="configBC" is-config="true" duration-ms="4824" started-at="2019-06-01T11:40:11Z" finished-at="2019-06-01T11:40:15Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Navigate to Url]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- configBC -->
+        <test-method status="PASS" signature="configBM()[pri:0, instance:com.capsulecrm.testcase.CapsuleCRMAddPersonTest@1134affc]" name="configBM" is-config="true" duration-ms="5117" started-at="2019-06-01T11:40:15Z" finished-at="2019-06-01T11:40:21Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Login to app]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- configBM -->
+        <test-method status="PASS" signature="verifyAddPerson_TC_001()[pri:0, instance:com.capsulecrm.testcase.CapsuleCRMAddPersonTest@1134affc]" name="verifyAddPerson_TC_001" duration-ms="16436" started-at="2019-06-01T11:40:21Z" finished-at="2019-06-01T11:40:37Z">
+          <reporter-output>
+            <line>
+              <![CDATA[status case is: Open]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- verifyAddPerson_TC_001 -->
+        <test-method status="PASS" signature="configAM()[pri:0, instance:com.capsulecrm.testcase.CapsuleCRMAddPersonTest@1134affc]" name="configAM" is-config="true" duration-ms="5318" started-at="2019-06-01T11:40:37Z" finished-at="2019-06-01T11:40:42Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Logout]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- configAM -->
+        <test-method status="PASS" signature="configBM()[pri:0, instance:com.capsulecrm.testcase.CapsuleCRMAddPersonTest@1134affc]" name="configBM" is-config="true" duration-ms="2646" started-at="2019-06-01T11:40:42Z" finished-at="2019-06-01T11:40:45Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Login to app]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- configBM -->
+        <test-method status="PASS" signature="verifyAccountSetting_TC_002()[pri:0, instance:com.capsulecrm.testcase.CapsuleCRMAddPersonTest@1134affc]" name="verifyAccountSetting_TC_002" duration-ms="29286" started-at="2019-06-01T11:40:45Z" finished-at="2019-06-01T11:41:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyAccountSetting_TC_002 -->
+        <test-method status="PASS" signature="configAM()[pri:0, instance:com.capsulecrm.testcase.CapsuleCRMAddPersonTest@1134affc]" name="configAM" is-config="true" duration-ms="5383" started-at="2019-06-01T11:41:14Z" finished-at="2019-06-01T11:41:20Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Logout]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- configAM -->
+        <test-method status="PASS" signature="configBM()[pri:0, instance:com.capsulecrm.testcase.CapsuleCRMAddPersonTest@1134affc]" name="configBM" is-config="true" duration-ms="3221" started-at="2019-06-01T11:41:20Z" finished-at="2019-06-01T11:41:23Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Login to app]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- configBM -->
+        <test-method status="PASS" signature="verifyAccountSetting_TC_003()[pri:0, instance:com.capsulecrm.testcase.CapsuleCRMAddPersonTest@1134affc]" name="verifyAccountSetting_TC_003" duration-ms="10706" started-at="2019-06-01T11:41:23Z" finished-at="2019-06-01T11:41:34Z">
+          <reporter-output>
+            <line>
+              <![CDATA[total configuration size: 10]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- verifyAccountSetting_TC_003 -->
+        <test-method status="PASS" signature="configAM()[pri:0, instance:com.capsulecrm.testcase.CapsuleCRMAddPersonTest@1134affc]" name="configAM" is-config="true" duration-ms="5371" started-at="2019-06-01T11:41:34Z" finished-at="2019-06-01T11:41:39Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Logout]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- configAM -->
+        <test-method status="PASS" signature="configAC()[pri:0, instance:com.capsulecrm.testcase.CapsuleCRMAddPersonTest@1134affc]" name="configAC" is-config="true" duration-ms="1" started-at="2019-06-01T11:41:39Z" finished-at="2019-06-01T11:41:39Z">
+          <reporter-output>
+            <line>
+              <![CDATA[close the browser]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- configAC -->
+        <test-method status="PASS" signature="configAT()[pri:0, instance:com.capsulecrm.testcase.CapsuleCRMAddPersonTest@1134affc]" name="configAT" is-config="true" duration-ms="1684" started-at="2019-06-01T11:41:39Z" finished-at="2019-06-01T11:41:41Z">
+          <reporter-output>
+            <line>
+              <![CDATA[close the browser]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- configAT -->
+        <test-method status="PASS" signature="configAS()[pri:0, instance:com.capsulecrm.testcase.CapsuleCRMAddPersonTest@1134affc]" name="configAS" is-config="true" duration-ms="0" started-at="2019-06-01T11:41:41Z" finished-at="2019-06-01T11:41:41Z">
+          <reporter-output>
+            <line>
+              <![CDATA[close the data base Connection]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- configAS -->
+      </class> <!-- com.capsulecrm.testcase.CapsuleCRMAddPersonTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
